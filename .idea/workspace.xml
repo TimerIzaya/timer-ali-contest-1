@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a0d5bdb0-659e-4ff3-ae5f-44fa5136a3a7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Netty/NettyDemos/NettyDemos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Netty/NioDemos/NioDemos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ToolClass-master/ToolClass.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../filespilt-demo-master/filespilt.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kg_Back/kg_Back.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../netty_redis_zookeeper--2-8-10-11-/CocurrentDemos/CoccurrentDemos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../netty_redis_zookeeper--2-8-10-11-/NioDemos/NIODemos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../netty_redis_zookeeper--2-8-10-11-/RedisDemos/RedisDemos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../netty_redis_zookeeper--2-8-10-11-/ZookeeperDemos/ZookeeperDemos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../netty_redis_zookeeper--2-8-10-11-/crazyCircleDemos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../timer_db/timer_db.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../基于大数据的互联网虚拟身份归一处理性能优化/基于大数据的互联网虚拟身份归一处理性能优化.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../虚拟统一化/.idea/虚拟统一化.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../虚拟统一化/虚拟统一化.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021-tianchi-contest-1/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2021-tianchi-contest-1/src/main/java/com/aliyun/adb/contest/SimpleAnalyticDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/../2021-tianchi-contest-1/src/main/java/com/aliyun/adb/contest/SimpleAnalyticDB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ali-contest-1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ali-contest-1/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="H:\maven_repository" />
+        <option name="mavenHome" value="H:/apache-maven-3.5.2" />
+        <option name="userSettingsFile" value="H:\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1sLGP8S2KiCj9KK0SMwiJCNWoSG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="H:/Tools/Android" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\IdeaPros\timer-ali-contest-1\src\main\java" />
+    </key>
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a0d5bdb0-659e-4ff3-ae5f-44fa5136a3a7" name="Default Changelist" comment="" />
+      <created>1620644429166</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620644429166</updated>
+      <workItem from="1620644431063" duration="90000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
